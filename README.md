@@ -2,6 +2,8 @@
 
 _Full credit and copyright to [Josh Wardle](https://twitter.com/powerlanguish)_
 
+Play the offical version: http://powerlanguage.co.uk/wordle/
+
 This is not intended for distribution. Do not uploaded this to the App Store. It will violate guideline 4.1.
 
 ## TODO:
